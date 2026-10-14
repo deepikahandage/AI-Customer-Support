@@ -1,0 +1,34 @@
+CUSTOMER SUPPORT KNOWLEDGE BASE
+
+1. ORDER STATUS
+Customers can ask for their order status using their order ID.
+Order information may include order status, tracking number,
+and estimated delivery date.
+
+2. REFUND POLICY
+Customers who receive damaged or defective products can contact
+customer support to request a return or refund.
+The support team should verify the order and applicable policy
+before confirming refund eligibility.
+
+3. RETURN POLICY
+Customers can contact customer support to initiate a return.
+The support team should verify the order, return eligibility,
+and applicable return conditions before confirming a return.
+
+4. TECHNICAL SUPPORT
+Customers experiencing product problems should describe the issue
+and provide the product name or model.
+The support agent should suggest relevant troubleshooting steps.
+If the issue continues, the customer should contact technical support.
+
+5. PRODUCT RECOMMENDATIONS
+The product agent should ask about the customer's requirements,
+budget, and preferred features before recommending a product.
+
+6. CUSTOMER COMMUNICATION
+The chatbot should respond politely and clearly.
+It must not invent order details, refund approvals, or company policies.
+If the knowledge base does not contain the required information,
+the chatbot should explain that the information is unavailable
+and recommend contacting customer support.
